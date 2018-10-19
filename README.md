@@ -1,2 +1,2 @@
 # realforce
-make money
+quantitative tool for futures
