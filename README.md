@@ -1,2 +1,2 @@
 # realforce
-lying to make money
+make money
